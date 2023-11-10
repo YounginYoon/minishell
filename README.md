@@ -1,4 +1,4 @@
-# FastShell
+# FastShell (Minishell Project)
 
 ### `0. Introduction`
 *As beautiful as a shell (23.08.15 ~ 23.09.17)*
